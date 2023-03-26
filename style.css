@@ -1,0 +1,40 @@
+body{
+    background-image: url("green.jpg");
+    text-align: center;
+}
+
+h1{
+    color: goldenrod;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+}
+
+p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+/* BUTTONS */
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    color: #016f32;
+    background-color: goldenrod;
+    width: 300px;
+    padding: 20px 0px;
+    margin: 7px 5px;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+}
+
+/* #player-el{
+    margin: 2% 20%;
+    padding: 10px 50px 10px 50px;
+    text-align: left;
+} */
